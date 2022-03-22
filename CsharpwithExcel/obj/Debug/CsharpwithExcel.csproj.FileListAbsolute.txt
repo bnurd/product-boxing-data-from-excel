@@ -1,0 +1,7 @@
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\bin\Debug\CsharpwithExcel.exe.config
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\bin\Debug\CsharpwithExcel.exe
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\bin\Debug\CsharpwithExcel.pdb
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\obj\Debug\CsharpwithExcel.csproj.CoreCompileInputs.cache
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\obj\Debug\CsharpwithExcel.exe
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\obj\Debug\CsharpwithExcel.pdb
+C:\Users\bilgisayar\source\repos\CsharpwithExcel\CsharpwithExcel\obj\Debug\CsharpwithExcel.csprojAssemblyReference.cache
